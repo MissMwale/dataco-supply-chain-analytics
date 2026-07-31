@@ -2,7 +2,7 @@
 ===========================================================================
  Supply Chain Delivery Performance Analysis
  Dataset: DataCo Smart Supply Chain (180,519 orders)
- Author: Becky
+ Author: Rebecca
  Description: SQL analysis investigating late delivery drivers across
  region, shipping mode, and product category, plus a data prep query
  used for demand forecasting in Python (Prophet).
