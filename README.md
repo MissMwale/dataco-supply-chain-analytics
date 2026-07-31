@@ -45,5 +45,5 @@ Late delivery isn't just an operational annoyance — it drives customer churn a
 - Extend forecasting to a category-level breakdown
 
 ---
-**Author:** Becky — Supply Chain & Procurement Professional transitioning into data analytics.
+**Author:** Rebecca — Supply Chain & Procurement Professional transitioning into data analytics.
 📫 Connect on [LinkedIn](#) 
